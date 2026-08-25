@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="title desc">
+  <title id="title">Gleichmäßiger Bezug und Channeling</title>
+  <desc id="desc">Links fließt Wasser gleichmäßig durch den Puck. Rechts sucht es einen Kanal; beim bodenlosen Siebträger oft sichtbar als Spritzen.</desc>
+  <rect width="1200" height="630" fill="#FDF8F1"/>
+  <g transform="translate(0 7.5) scale(1.25)">
+    <text x="40" y="46" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#4A2C2A">Gleichmäßiger Bezug und Channeling</text>
+
+      <text x="250" y="96" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#4A2C2A">Gleichmäßig</text>
+      <path d="M170,120 H330 L348,280 H152 Z" fill="#E8D7C0" stroke="#4A2C2A" stroke-width="2.5"/>
+      <path d="M184,148 H316 L330,264 H170 Z" fill="#6B4034"/>
+      <g stroke="#3D6B7A" stroke-width="3" fill="none">
+        <line x1="200" y1="160" x2="196" y2="250"/>
+        <line x1="230" y1="160" x2="228" y2="250"/>
+        <line x1="260" y1="160" x2="262" y2="250"/>
+        <line x1="290" y1="160" x2="294" y2="250"/>
+      </g>
+      <line x1="196" y1="282" x2="190" y2="330" stroke="#3D6B7A" stroke-width="3"/>
+      <line x1="228" y1="282" x2="226" y2="330" stroke="#3D6B7A" stroke-width="3"/>
+      <line x1="262" y1="282" x2="264" y2="330" stroke="#3D6B7A" stroke-width="3"/>
+      <line x1="294" y1="282" x2="300" y2="330" stroke="#3D6B7A" stroke-width="3"/>
+      <text x="250" y="372" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">Wasser trifft den ganzen Puck</text>
+
+      <text x="710" y="96" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#4A2C2A">Channel</text>
+      <path d="M630,120 H790 L808,280 H612 Z" fill="#E8D7C0" stroke="#4A2C2A" stroke-width="2.5"/>
+      <path d="M644,148 H776 L790,264 H630 Z" fill="#8A5A48"/>
+      <path d="M700,148 L724,148 L748,264 L710,264 Z" fill="#C4A090"/>
+      <line x1="712" y1="150" x2="736" y2="264" stroke="#E8F1F4" stroke-width="10"/>
+      <line x1="736" y1="282" x2="752" y2="340" stroke="#3D6B7A" stroke-width="7"/>
+      <line x1="660" y1="282" x2="656" y2="318" stroke="#3D6B7A" stroke-width="1.5"/>
+      <line x1="780" y1="282" x2="786" y2="318" stroke="#3D6B7A" stroke-width="1.5"/>
+      <text x="710" y="372" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">Wasser sucht einen Weg</text>
+      <text x="710" y="398" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14" fill="#6B5348">Beim bodenlosen Siebträger oft sichtbar: Spritzen</text>
+  </g>
+  <a href="https://siebtraeger-vergleich.de/wissen/channeling.html" aria-label="siebtraeger-vergleich.de">
+    <text x="1170" y="600" text-anchor="end" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#4A2C2A" fill-opacity="0.7">siebtraeger-vergleich.de</text>
+  </a>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="title desc">
+  <title id="title">Brew Ratio 1 zu 2</title>
+  <desc id="desc">18 Gramm Kaffee im Sieb ergeben 36 Gramm Espresso in der Tasse; das Verhältnis 1 zu 2 ist in Gramm gewogen.</desc>
+  <rect width="1200" height="630" fill="#FDF8F1"/>
+  <g transform="translate(0 20) scale(1.25)">
+    <text x="40" y="46" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#4A2C2A">Brew Ratio 1:2, gewogen in Gramm</text>
+      <defs>
+        <marker id="ai" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#4A2C2A"/></marker>
+      </defs>
+
+      <path d="M150,120 H310 L330,280 H130 Z" fill="#E8D7C0" stroke="#4A2C2A" stroke-width="2.5"/>
+      <path d="M164,148 H296 L310,264 H150 Z" fill="#6B4034"/>
+      <text x="230" y="318" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#4A2C2A">18 g</text>
+      <text x="230" y="346" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16" fill="#333">Kaffee im Sieb</text>
+
+      <line x1="360" y1="210" x2="470" y2="210" stroke="#4A2C2A" stroke-width="3" marker-end="url(#ai)"/>
+      <text x="416" y="190" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#4A2C2A">1:2</text>
+
+      <ellipse cx="680" cy="268" rx="86" ry="22" fill="#4A2C2A"/>
+      <path d="M610,168 H750 L766,268 H594 Z" fill="#FFFFFF" stroke="#4A2C2A" stroke-width="2.5"/>
+      <path d="M622,210 H738 L748,258 H612 Z" fill="#6B4034"/>
+      <ellipse cx="680" cy="168" rx="70" ry="16" fill="#F5E6D3" stroke="#4A2C2A" stroke-width="2"/>
+      <text x="680" y="318" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#4A2C2A">36 g</text>
+      <text x="680" y="346" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16" fill="#333">Espresso in der Tasse</text>
+
+      <text x="480" y="400" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#6B5348">Crema ändert das Volumen. Die Waage zählt die Masse.</text>
+  </g>
+  <a href="https://siebtraeger-vergleich.de/wissen/brew-ratio.html" aria-label="siebtraeger-vergleich.de">
+    <text x="1170" y="600" text-anchor="end" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#4A2C2A" fill-opacity="0.7">siebtraeger-vergleich.de</text>
+  </a>
+</svg>

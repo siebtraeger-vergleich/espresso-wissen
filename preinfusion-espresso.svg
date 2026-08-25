@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="title desc">
+  <title id="title">Preinfusion: zuerst benetzen, dann voller Druck</title>
+  <desc id="desc">Zwei Schritte am Puck: zuerst wenig Druck zum Benetzen, danach der volle Bezug.</desc>
+  <rect width="1200" height="630" fill="#FDF8F1"/>
+  <g transform="translate(0 32.5) scale(1.25)">
+    <text x="40" y="46" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#4A2C2A">Preinfusion: erst benetzen, dann Druck</text>
+
+      <rect x="60" y="96" width="380" height="260" rx="12" fill="#FFFFFF" stroke="#4A2C2A" stroke-width="2"/>
+      <text x="250" y="136" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#4A2C2A">1. Benetzen</text>
+      <path d="M170,164 H330 L344,286 H156 Z" fill="#E8D7C0" stroke="#4A2C2A" stroke-width="2"/>
+      <path d="M184,188 H316 L326,274 H174 Z" fill="#6B4034"/>
+      <line x1="210" y1="172" x2="206" y2="200" stroke="#3D6B7A" stroke-width="2"/>
+      <line x1="250" y1="172" x2="250" y2="200" stroke="#3D6B7A" stroke-width="2"/>
+      <line x1="290" y1="172" x2="294" y2="200" stroke="#3D6B7A" stroke-width="2"/>
+      <text x="250" y="326" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">wenig Druck, Puck wird nass</text>
+
+      <rect x="520" y="96" width="380" height="260" rx="12" fill="#F5E6D3" stroke="#4A2C2A" stroke-width="2"/>
+      <text x="710" y="136" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#4A2C2A">2. Voller Bezug</text>
+      <path d="M630,164 H790 L804,286 H616 Z" fill="#E8D7C0" stroke="#4A2C2A" stroke-width="2"/>
+      <path d="M644,188 H776 L786,274 H634 Z" fill="#6B4034"/>
+      <line x1="670" y1="172" x2="664" y2="250" stroke="#3D6B7A" stroke-width="4"/>
+      <line x1="710" y1="172" x2="710" y2="250" stroke="#3D6B7A" stroke-width="4"/>
+      <line x1="750" y1="172" x2="756" y2="250" stroke="#3D6B7A" stroke-width="4"/>
+      <line x1="664" y1="290" x2="660" y2="326" stroke="#3D6B7A" stroke-width="3"/>
+      <line x1="710" y1="290" x2="710" y2="326" stroke="#3D6B7A" stroke-width="3"/>
+      <line x1="756" y1="290" x2="760" y2="326" stroke="#3D6B7A" stroke-width="3"/>
+      <text x="710" y="352" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">danach der volle Durchfluss</text>
+  </g>
+  <a href="https://siebtraeger-vergleich.de/wissen/preinfusion.html" aria-label="siebtraeger-vergleich.de">
+    <text x="1170" y="600" text-anchor="end" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#4A2C2A" fill-opacity="0.7">siebtraeger-vergleich.de</text>
+  </a>
+</svg>

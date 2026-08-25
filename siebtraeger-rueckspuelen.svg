@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img" aria-labelledby="title desc">
+  <title id="title">Rückspülen mit Blindsieb und Dreiwegeventil</title>
+  <desc id="desc">Die Pumpe drückt gegen das Blindsieb; das Dreiwegeventil leitet das Wasser in die Abtropfschale. Nur gemäß Maschinenanleitung.</desc>
+  <rect width="1200" height="675" fill="#FDF8F1"/>
+  <g transform="translate(0 5) scale(1.25)">
+    <text x="40" y="46" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#4A2C2A">Rückspülen: Blindsieb und Dreiwegeventil</text>
+      <defs>
+        <marker id="aw" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#3D6B7A"/></marker>
+        <marker id="ai" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#4A2C2A"/></marker>
+      </defs>
+
+      <circle cx="150" cy="220" r="36" fill="#FFFFFF" stroke="#4A2C2A" stroke-width="2"/>
+      <text x="150" y="225" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="13" fill="#4A2C2A">Pumpe</text>
+      <line x1="186" y1="220" x2="268" y2="220" stroke="#3D6B7A" stroke-width="4" marker-end="url(#aw)"/>
+
+      <rect x="280" y="150" width="160" height="100" rx="10" fill="#F5E6D3" stroke="#4A2C2A" stroke-width="2.5"/>
+      <text x="360" y="208" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#4A2C2A">Brühgruppe</text>
+      <path d="M318,250 L402,250 L390,310 L330,310 Z" fill="#4A2C2A"/>
+      <rect x="328" y="258" width="64" height="36" rx="4" fill="#C4B49A" stroke="#FDF8F1" stroke-width="2"/>
+      <text x="360" y="340" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">Blindsieb</text>
+      <text x="360" y="362" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14" fill="#6B5348">keine Löcher</text>
+
+      <line x1="440" y1="200" x2="548" y2="200" stroke="#4A2C2A" stroke-width="2.5" marker-end="url(#ai)"/>
+      <polygon points="580,150 690,200 580,250" fill="#FFFFFF" stroke="#4A2C2A" stroke-width="2.5"/>
+      <text x="612" y="206" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#4A2C2A">Ventil</text>
+      <text x="635" y="138" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">Dreiwegeventil</text>
+
+      <line x1="690" y1="200" x2="690" y2="300" stroke="#3D6B7A" stroke-width="4"/>
+      <line x1="690" y1="300" x2="820" y2="300" stroke="#3D6B7A" stroke-width="4" marker-end="url(#aw)"/>
+      <rect x="780" y="316" width="120" height="50" rx="6" fill="#E8D7C0" stroke="#4A2C2A" stroke-width="2"/>
+      <text x="840" y="346" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">Abtropfschale</text>
+
+      <text x="480" y="430" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#6B5348">Nur bei Maschinen mit Dreiwegeventil. Nur gemäß Maschinenanleitung.</text>
+  </g>
+  <a href="https://siebtraeger-vergleich.de/wissen/rueckspuelen.html" aria-label="siebtraeger-vergleich.de">
+    <text x="1170" y="645" text-anchor="end" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#4A2C2A" fill-opacity="0.7">siebtraeger-vergleich.de</text>
+  </a>
+</svg>

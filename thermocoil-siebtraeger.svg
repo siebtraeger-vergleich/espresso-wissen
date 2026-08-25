@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="title desc">
+  <title id="title">Thermocoil: Wasser läuft durch einen beheizten Kanal</title>
+  <desc id="desc">Schematischer Wasserweg vom Tank über Pumpe und Thermocoil zur Brühgruppe.</desc>
+  <rect width="1200" height="630" fill="#FDF8F1"/>
+  <g transform="translate(10 0) scale(1.229167)">
+    <text x="40" y="46" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#4A2C2A">Thermocoil: beheizter Metallkanal</text>
+      <defs>
+        <marker id="aw" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#3D6B7A"/></marker>
+      </defs>
+
+      <rect x="48" y="176" width="80" height="150" rx="8" fill="#E8F1F4" stroke="#4A2C2A" stroke-width="2"/>
+      <rect x="56" y="230" width="64" height="88" rx="4" fill="#3D6B7A"/>
+      <text x="88" y="348" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">Wassertank</text>
+      <line x1="128" y1="274" x2="180" y2="274" stroke="#3D6B7A" stroke-width="4" marker-end="url(#aw)"/>
+      <circle cx="212" cy="274" r="24" fill="#FFFFFF" stroke="#4A2C2A" stroke-width="2"/>
+      <text x="212" y="279" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="12" fill="#4A2C2A">Pumpe</text>
+      <line x1="236" y1="274" x2="338" y2="274" stroke="#3D6B7A" stroke-width="4" marker-end="url(#aw)"/>
+
+      <rect x="350" y="128" width="250" height="230" rx="12" fill="#E4D0B4" stroke="#4A2C2A" stroke-width="2.5"/>
+      <text x="475" y="158" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#4A2C2A">Thermocoil</text>
+      <path d="M400,200 C400,200 400,340 475,340 C550,340 550,200 475,200 C400,200 400,340 475,340 C550,340 550,230 520,230" fill="none" stroke="#3D6B7A" stroke-width="10" stroke-linecap="round"/>
+      <circle cx="390" cy="188" r="8" fill="#D4AF37"/>
+      <circle cx="560" cy="188" r="8" fill="#D4AF37"/>
+      <circle cx="390" cy="330" r="8" fill="#D4AF37"/>
+      <circle cx="560" cy="330" r="8" fill="#D4AF37"/>
+      <text x="475" y="380" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14" fill="#6B5348">gewundener Heizkanal</text>
+
+      <line x1="600" y1="230" x2="692" y2="230" stroke="#3D6B7A" stroke-width="4" marker-end="url(#aw)"/>
+      <rect x="704" y="188" width="86" height="64" rx="8" fill="#FFFFFF" stroke="#4A2C2A" stroke-width="2"/>
+      <path d="M722,252 L772,252 L764,294 L730,294 Z" fill="#4A2C2A"/>
+      <text x="747" y="178" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">Brühgruppe</text>
+      <text x="747" y="320" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14" fill="#3D6B7A">Espresso</text>
+  </g>
+  <a href="https://siebtraeger-vergleich.de/wissen/thermocoil.html" aria-label="siebtraeger-vergleich.de">
+    <text x="1170" y="600" text-anchor="end" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#4A2C2A" fill-opacity="0.7">siebtraeger-vergleich.de</text>
+  </a>
+</svg>

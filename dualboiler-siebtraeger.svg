@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img" aria-labelledby="title desc">
+  <title id="title">Dualboiler: getrennte Kessel für Brühen und Dampf</title>
+  <desc id="desc">Schematischer Wasserweg mit Brühboiler zur Brühgruppe und Dampfboiler zur Dampflanze.</desc>
+  <rect width="1200" height="675" fill="#FDF8F1"/>
+  <g transform="translate(13.846 0) scale(1.221154)">
+    <text x="40" y="46" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#4A2C2A">Dualboiler: zwei Kessel, zwei Temperaturen</text>
+      <defs>
+        <marker id="aw" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#3D6B7A"/></marker>
+        <marker id="as" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#B8952F"/></marker>
+      </defs>
+
+      <rect x="48" y="200" width="80" height="150" rx="8" fill="#E8F1F4" stroke="#4A2C2A" stroke-width="2"/>
+      <rect x="56" y="254" width="64" height="88" rx="4" fill="#3D6B7A"/>
+      <text x="88" y="372" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">Wassertank</text>
+
+      <line x1="128" y1="300" x2="176" y2="300" stroke="#3D6B7A" stroke-width="4" marker-end="url(#aw)"/>
+      <circle cx="206" cy="300" r="24" fill="#FFFFFF" stroke="#4A2C2A" stroke-width="2"/>
+      <text x="206" y="305" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="12" fill="#4A2C2A">Pumpe</text>
+
+      <line x1="230" y1="300" x2="276" y2="300" stroke="#3D6B7A" stroke-width="4"/>
+      <line x1="276" y1="300" x2="276" y2="180" stroke="#3D6B7A" stroke-width="4"/>
+      <line x1="276" y1="180" x2="328" y2="180" stroke="#3D6B7A" stroke-width="4" marker-end="url(#aw)"/>
+      <line x1="276" y1="300" x2="276" y2="390" stroke="#B8952F" stroke-width="4"/>
+      <line x1="276" y1="390" x2="328" y2="390" stroke="#B8952F" stroke-width="4" marker-end="url(#as)"/>
+
+      <rect x="340" y="98" width="210" height="176" rx="14" fill="#E8F1F4" stroke="#4A2C2A" stroke-width="2.5"/>
+      <text x="445" y="176" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#4A2C2A">Brühboiler</text>
+      <text x="445" y="202" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14" fill="#3D6B7A">nahe Brühtemperatur</text>
+      <line x1="550" y1="170" x2="638" y2="170" stroke="#3D6B7A" stroke-width="4" marker-end="url(#aw)"/>
+      <rect x="650" y="128" width="86" height="64" rx="8" fill="#FFFFFF" stroke="#4A2C2A" stroke-width="2"/>
+      <path d="M668,192 L718,192 L710,234 L676,234 Z" fill="#4A2C2A"/>
+      <text x="693" y="118" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">Brühgruppe</text>
+      <text x="693" y="258" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14" fill="#3D6B7A">Espresso</text>
+
+      <rect x="340" y="308" width="210" height="176" rx="14" fill="#F3E2A8" stroke="#4A2C2A" stroke-width="2.5"/>
+      <text x="445" y="386" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#4A2C2A">Dampfboiler</text>
+      <text x="445" y="412" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14" fill="#6B5348">deutlich heißer</text>
+      <line x1="550" y1="390" x2="720" y2="390" stroke="#B8952F" stroke-width="5" stroke-linecap="round" marker-end="url(#as)"/>
+      <text x="693" y="372" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">Dampflanze</text>
+      <text x="780" y="396" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14" fill="#B8952F">Dampf</text>
+  </g>
+  <a href="https://siebtraeger-vergleich.de/wissen/dual-boiler.html" aria-label="siebtraeger-vergleich.de">
+    <text x="1170" y="645" text-anchor="end" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#4A2C2A" fill-opacity="0.7">siebtraeger-vergleich.de</text>
+  </a>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="title desc">
+  <title id="title">Flachmahlwerk und Kegelmahlwerk</title>
+  <desc id="desc">Links zwei Mahlscheiben mit Fluss nach außen, rechts Innen- und Außenkegel mit Fluss nach unten. Die Bauform allein macht die Tasse nicht besser.</desc>
+  <rect width="1200" height="630" fill="#FDF8F1"/>
+  <g transform="translate(0 7.5) scale(1.25)">
+    <text x="40" y="46" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#4A2C2A">Flachmahlwerk und Kegelmahlwerk</text>
+      <defs>
+        <marker id="af" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#3D6B7A"/></marker>
+      </defs>
+
+      <text x="250" y="96" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#4A2C2A">Flach</text>
+      <ellipse cx="210" cy="130" rx="8" ry="6" fill="#6B4034"/>
+      <line x1="218" y1="136" x2="236" y2="152" stroke="#3D6B7A" stroke-width="2.5" marker-end="url(#af)"/>
+      <ellipse cx="250" cy="168" rx="92" ry="22" fill="#C4B49A" stroke="#4A2C2A" stroke-width="2"/>
+      <circle cx="250" cy="168" r="16" fill="#FDF8F1" stroke="#4A2C2A" stroke-width="2"/>
+      <ellipse cx="250" cy="248" rx="92" ry="22" fill="#C4B49A" stroke="#4A2C2A" stroke-width="2"/>
+      <circle cx="250" cy="248" r="16" fill="#FDF8F1" stroke="#4A2C2A" stroke-width="2"/>
+      <line x1="250" y1="184" x2="250" y2="226" stroke="#4A2C2A" stroke-width="2" stroke-dasharray="3 3"/>
+      <line x1="330" y1="248" x2="360" y2="280" stroke="#3D6B7A" stroke-width="2.5" marker-end="url(#af)"/>
+      <text x="250" y="300" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">zwei Mahlscheiben</text>
+      <text x="250" y="324" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14" fill="#6B5348">Bohne läuft nach außen</text>
+
+      <text x="710" y="96" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#4A2C2A">Kegel</text>
+      <ellipse cx="710" cy="112" rx="8" ry="6" fill="#6B4034"/>
+      <line x1="710" y1="118" x2="710" y2="130" stroke="#3D6B7A" stroke-width="2.5" marker-end="url(#af)"/>
+      <ellipse cx="710" cy="280" rx="78" ry="20" fill="#C4B49A" stroke="#4A2C2A" stroke-width="2"/>
+      <path d="M654,160 L766,160 L748,272 L672,272 Z" fill="#E8D7C0" stroke="#4A2C2A" stroke-width="2.5"/>
+      <path d="M710,132 L746,250 H674 Z" fill="#C4B49A" stroke="#4A2C2A" stroke-width="2"/>
+      <line x1="710" y1="286" x2="710" y2="310" stroke="#3D6B7A" stroke-width="2.5" marker-end="url(#af)"/>
+      <text x="710" y="336" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">Innenkegel und Außenkegel</text>
+      <text x="710" y="360" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14" fill="#6B5348">Bohne läuft nach unten</text>
+
+      <rect x="200" y="392" width="560" height="36" rx="8" fill="#F5E6D3" stroke="#4A2C2A" stroke-width="1.5"/>
+      <text x="480" y="416" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#4A2C2A">Bauform allein macht die Tasse nicht besser</text>
+  </g>
+  <a href="https://siebtraeger-vergleich.de/wissen/flach-vs-kegelmahlwerk.html" aria-label="siebtraeger-vergleich.de">
+    <text x="1170" y="600" text-anchor="end" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#4A2C2A" fill-opacity="0.7">siebtraeger-vergleich.de</text>
+  </a>
+</svg>

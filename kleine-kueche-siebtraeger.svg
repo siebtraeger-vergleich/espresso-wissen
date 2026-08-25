@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img" aria-labelledby="title desc">
+  <title id="title">Kleine Küche: Tank, Siebträger und Mühle mitmessen</title>
+  <desc id="desc">Beispiel Dedica Arte mit 149 mm Breite unter dem Oberschrank; Tankzugang nach oben, Siebträger nach vorne und Platz für die Mühle zählen mit.</desc>
+  <rect width="1200" height="675" fill="#FDF8F1"/>
+  <g transform="translate(35.556 0) scale(1.175926)">
+    <text x="40" y="46" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#4A2C2A">Kleine Küche: Tank, Siebträger und Mühle mitmessen</text>
+      <defs>
+        <marker id="ai" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#4A2C2A"/></marker>
+      </defs>
+
+      <rect x="48" y="80" width="864" height="36" rx="4" fill="#E4D0B4" stroke="#4A2C2A" stroke-width="2"/>
+      <text x="480" y="104" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#4A2C2A">Oberschrank</text>
+
+      <line x1="250" y1="184" x2="250" y2="128" stroke="#4A2C2A" stroke-width="2.5" marker-end="url(#ai)"/>
+      <text x="264" y="156" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">Tankzugang nach oben</text>
+
+      <rect x="48" y="400" width="864" height="28" fill="#C4B49A" stroke="#4A2C2A" stroke-width="2"/>
+      <text x="880" y="420" text-anchor="end" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="14" fill="#4A2C2A">Arbeitsplatte</text>
+
+      <rect x="190" y="210" width="130" height="190" rx="8" fill="#F5E6D3" stroke="#4A2C2A" stroke-width="2.5"/>
+      <rect x="214" y="188" width="82" height="28" rx="4" fill="#FFFFFF" stroke="#4A2C2A" stroke-width="2"/>
+      <rect x="228" y="248" width="54" height="42" rx="4" fill="#FFFFFF" stroke="#4A2C2A" stroke-width="1.5"/>
+      <path d="M268,300 L348,300 L336,328 L280,328 Z" fill="#4A2C2A"/>
+      <text x="255" y="360" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#4A2C2A">Beispiel: Dedica Arte</text>
+
+      <line x1="190" y1="448" x2="320" y2="448" stroke="#4A2C2A" stroke-width="2"/>
+      <line x1="190" y1="440" x2="190" y2="456" stroke="#4A2C2A" stroke-width="2"/>
+      <line x1="320" y1="440" x2="320" y2="456" stroke="#4A2C2A" stroke-width="2"/>
+      <text x="255" y="478" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#4A2C2A">149 mm breit</text>
+
+      <line x1="348" y1="312" x2="430" y2="312" stroke="#4A2C2A" stroke-width="2.5" marker-end="url(#ai)"/>
+      <text x="438" y="308" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">Siebträger</text>
+      <text x="438" y="328" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">nach vorne</text>
+
+      <rect x="620" y="248" width="100" height="152" rx="8" fill="#E8D7C0" stroke="#4A2C2A" stroke-width="2.5"/>
+      <path d="M640,210 H700 L718,248 H622 Z" fill="#D8C4A8" stroke="#4A2C2A" stroke-width="2"/>
+      <text x="670" y="330" text-anchor="middle" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#4A2C2A">Mühle</text>
+      <text x="740" y="330" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" fill="#333">daneben</text>
+  </g>
+  <a href="https://siebtraeger-vergleich.de/siebtraeger-kleine-kueche.html" aria-label="siebtraeger-vergleich.de">
+    <text x="1170" y="645" text-anchor="end" font-family="Roboto, Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#4A2C2A" fill-opacity="0.7">siebtraeger-vergleich.de</text>
+  </a>
+</svg>
