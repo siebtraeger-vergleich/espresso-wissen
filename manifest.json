@@ -1,0 +1,112 @@
+{
+  "name": "Espresso-Wissen SVG",
+  "version": 1,
+  "updated": "2026-08-25",
+  "author": "Marcel Voß / siebtraeger-vergleich.de",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/legalcode.de",
+  "assets": [
+    {
+      "file": "waermetauscher-siebtraeger.svg",
+      "title": "Wärmetauscher: Wasserfluss und Dampfkessel",
+      "topic": "Heizsystem",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/waermetauscher.html"
+    },
+    {
+      "file": "einkreiser-siebtraeger.svg",
+      "title": "Einkreiser: ein Boiler für Espresso und Dampf",
+      "topic": "Heizsystem",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/einkreiser.html"
+    },
+    {
+      "file": "dualboiler-siebtraeger.svg",
+      "title": "Dualboiler: getrennte Boiler für Espresso und Dampf",
+      "topic": "Heizsystem",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/dual-boiler.html"
+    },
+    {
+      "file": "thermoblock-siebtraeger.svg",
+      "title": "Thermoblock: Wasserfluss ohne großen Boiler",
+      "topic": "Heizsystem",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/thermoblock.html"
+    },
+    {
+      "file": "thermocoil-siebtraeger.svg",
+      "title": "Thermocoil: beheizter Wasserkanal",
+      "topic": "Heizsystem",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/thermocoil.html"
+    },
+    {
+      "file": "pid-temperaturregelung.svg",
+      "title": "PID-Regelung: Fühler, Regelung und Heizung",
+      "topic": "Temperaturregelung",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/pid.html"
+    },
+    {
+      "file": "pressurisiertes-sieb-vs-einwandig.svg",
+      "title": "Pressurisiertes und einwandiges Sieb im Vergleich",
+      "topic": "Siebtechnik",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/pressurisierte-siebe.html"
+    },
+    {
+      "file": "54-mm-vs-58-mm-siebtraeger.svg",
+      "title": "54 mm und 58 mm: Siebmaß und Puckform",
+      "topic": "Siebgröße",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/54-vs-58-mm.html"
+    },
+    {
+      "file": "9-bar-espresso-pumpendruck.svg",
+      "title": "9 bar Espresso: Pumpenangabe und Brühdruck",
+      "topic": "Espresso",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/9-bar-espresso.html"
+    },
+    {
+      "file": "brew-ratio-espresso-1-zu-2.svg",
+      "title": "Brew Ratio 1:2 für Espresso",
+      "topic": "Espresso",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/brew-ratio.html"
+    },
+    {
+      "file": "channeling-espresso-puck.svg",
+      "title": "Channeling im Espresso-Puck",
+      "topic": "Espresso",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/channeling.html"
+    },
+    {
+      "file": "preinfusion-espresso.svg",
+      "title": "Preinfusion: Benetzen vor dem vollen Bezug",
+      "topic": "Espresso",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/preinfusion.html"
+    },
+    {
+      "file": "siebtraeger-rueckspuelen.svg",
+      "title": "Siebträger rückspülen mit Blindsieb",
+      "topic": "Pflege",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/rueckspuelen.html"
+    },
+    {
+      "file": "single-dose-vs-hopper-muehle.svg",
+      "title": "Single Dose und Hopper-Mühle im Vergleich",
+      "topic": "Mühlenworkflow",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/single-dose-vs-hopper.html"
+    },
+    {
+      "file": "flach-vs-kegelmahlwerk.svg",
+      "title": "Flach- und Kegelmahlwerk im Vergleich",
+      "topic": "Mahlwerk",
+      "sourcePage": "https://siebtraeger-vergleich.de/wissen/flach-vs-kegelmahlwerk.html"
+    },
+    {
+      "file": "kleine-kueche-siebtraeger.svg",
+      "title": "Siebträger in einer kleinen Küche: benötigter Platz",
+      "topic": "Platzbedarf",
+      "sourcePage": "https://siebtraeger-vergleich.de/siebtraeger-kleine-kueche.html"
+    },
+    {
+      "file": "einsteiger-setup-maschine-muehle-waage.svg",
+      "title": "Siebträger-Einsteiger-Setup: Mühle, Maschine und Waage",
+      "topic": "Einsteiger",
+      "sourcePage": "https://siebtraeger-vergleich.de/siebtraeger-einsteiger-set.html"
+    }
+  ]
+}
