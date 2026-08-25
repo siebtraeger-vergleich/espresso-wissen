@@ -3,7 +3,7 @@
 Die Grafiken in diesem Repository stehen unter CC BY 4.0. Bei jeder Nutzung
 bitte diese vier Angaben beibehalten:
 
-1. Autor: `siebtraeger-vergleich.de` beziehungsweise `Marcel Voß`
+1. Autor: `siebtraeger-vergleich.de`
 2. Titel der verwendeten Grafik
 3. Link auf die zugehörige Quellseite
 4. Link auf die Lizenz: https://creativecommons.org/licenses/by/4.0/deed.de
